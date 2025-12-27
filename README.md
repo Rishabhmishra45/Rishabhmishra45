@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 I am currently working on mobile application development using React Native. I have a strong foundation in the MERN stack, including HTML, CSS, JavaScript, React, Node.js, Express, and MongoDB. I am experienced with modern deployment and collaboration tools such as Git, GitHub, Vercel, and Netlify.<br><br>At present, I am actively working on new major projects, focusing on building scalable, high-performance applications and improving my overall development skills.
 
 
