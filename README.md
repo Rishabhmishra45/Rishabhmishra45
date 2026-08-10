@@ -6,7 +6,7 @@
 
 I build scalable, high-performance web applications, and I'm currently deep-diving into React Native for cross-platform app development.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;React+Native+Explorer;Building+Scalable+Web+Apps;Always+Learning+%2C+Always+Building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+Native+Explorer;Building+Scalable+Web+Apps;Always+Learning+%2C+Always+Building" alt="Typing SVG" />
 
 </div>
 
@@ -73,8 +73,10 @@ I build scalable, high-performance web applications, and I'm currently deep-divi
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Rishabhmishra45&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=Rishabhmishra45&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" />
 </p>
+
+> Agar trophy row kabhi load na ho (broken icon dikhe), to bas README page ko refresh kar dena — ye ek free shared service hai jo kabhi-kabhi busy ho jaati hai, tumhari file mein kuch galat nahi hai.
 
 ---
 
@@ -99,15 +101,25 @@ I build scalable, high-performance web applications, and I'm currently deep-divi
 ### 🚀 Featured Projects
 
 <p align="center">
-<a href="https://github.com/Rishabhmishra45?tab=repositories&sort=stargazers">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rishabhmishra45&repo=REPO_NAME_1&theme=dark&hide_border=true&bg_color=0D1117&title_color=61DAFB" />
+<a href="https://github.com/Rishabhmishra45/DeliverDish">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rishabhmishra45&repo=DeliverDish&theme=dark&hide_border=true&bg_color=0D1117&title_color=61DAFB" />
 </a>
-<a href="https://github.com/Rishabhmishra45?tab=repositories&sort=stargazers">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rishabhmishra45&repo=REPO_NAME_2&theme=dark&hide_border=true&bg_color=0D1117&title_color=61DAFB" />
+<a href="https://github.com/Rishabhmishra45/MishraMart">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rishabhmishra45&repo=MishraMart&theme=dark&hide_border=true&bg_color=0D1117&title_color=61DAFB" />
+</a>
+<a href="https://github.com/Rishabhmishra45/Dream-Nest">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rishabhmishra45&repo=Dream-Nest&theme=dark&hide_border=true&bg_color=0D1117&title_color=61DAFB" />
+</a>
+<a href="https://github.com/Rishabhmishra45/Booksy">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rishabhmishra45&repo=Booksy&theme=dark&hide_border=true&bg_color=0D1117&title_color=61DAFB" />
+</a>
+<a href="https://github.com/Rishabhmishra45/Solar-System">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rishabhmishra45&repo=Solar-System&theme=dark&hide_border=true&bg_color=0D1117&title_color=61DAFB" />
+</a>
+<a href="https://github.com/Rishabhmishra45/Resume-Builder">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rishabhmishra45&repo=Resume-Builder&theme=dark&hide_border=true&bg_color=0D1117&title_color=61DAFB" />
 </a>
 </p>
-
-> Replace `REPO_NAME_1` / `REPO_NAME_2` with your actual repo names (e.g. your Smart Local Service Booking Platform) to pin them here — up to 6 pin cards can be added.
 
 ---
 
