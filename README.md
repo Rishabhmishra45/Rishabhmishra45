@@ -2,11 +2,11 @@
 
 # Hi there, I'm Rishabh Mishra 👋
 
-### Full Stack Developer | MERN Stack | React Native Learner
+### Frontend Developer | MERN Stack | React Native Learner
 
-I build scalable, high-performance web applications, and I'm currently deep-diving into React Native for cross-platform app development.
+I build scalable, high-performance web and mobile applications, and I'm currently deep-diving into React Native for cross-platform app development.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+Native+Explorer;Building+Scalable+Web+Apps;Always+Learning+%2C+Always+Building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;React+Native+Explorer;Building+Scalable+Web+Apps;Always+Learning+%2C+Always+Building" alt="Typing SVG" />
 
 </div>
 
@@ -64,8 +64,8 @@ I build scalable, high-performance web applications, and I'm currently deep-divi
 ### 📊 GitHub Analytics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rishabhmishra45&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabhmishra45&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=61DAFB" />
+<img height="180em" src="https://github-readme-stats-five-gamma-61.vercel.app/api?username=Rishabhmishra45&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB" />
+<img height="180em" src="https://github-readme-stats-five-gamma-61.vercel.app/api/top-langs/?username=Rishabhmishra45&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=61DAFB" />
 </p>
 
 <p align="center">
@@ -76,6 +76,7 @@ I build scalable, high-performance web applications, and I'm currently deep-divi
 <img src="https://github-profile-trophy.vercel.app/?username=Rishabhmishra45&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" />
 </p>
 
+> Agar trophy row kabhi load na ho (broken icon dikhe), to bas README page ko refresh kar dena — ye ek free shared service hai jo kabhi-kabhi busy ho jaati hai, tumhari file mein kuch galat nahi hai.
 
 ---
 
@@ -93,6 +94,7 @@ I build scalable, high-performance web applications, and I'm currently deep-divi
 <img src="https://raw.githubusercontent.com/Rishabhmishra45/Rishabhmishra45/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </p>
 
+> Note: the snake graphic above needs a one-time GitHub Action set up in this repo to generate itself — see the setup note at the bottom of this file.
 
 ---
 
@@ -100,22 +102,22 @@ I build scalable, high-performance web applications, and I'm currently deep-divi
 
 <p align="center">
 <a href="https://github.com/Rishabhmishra45/DeliverDish">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rishabhmishra45&repo=DeliverDish&theme=dark&hide_border=true&bg_color=0D1117&title_color=61DAFB" />
+  <img width="49%" src="https://github-readme-stats-five-gamma-61.vercel.app/api/pin/?username=Rishabhmishra45&repo=DeliverDish&theme=dark&hide_border=true&bg_color=0D1117&title_color=61DAFB" />
 </a>
 <a href="https://github.com/Rishabhmishra45/MishraMart">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rishabhmishra45&repo=MishraMart&theme=dark&hide_border=true&bg_color=0D1117&title_color=61DAFB" />
+  <img width="49%" src="https://github-readme-stats-five-gamma-61.vercel.app/api/pin/?username=Rishabhmishra45&repo=MishraMart&theme=dark&hide_border=true&bg_color=0D1117&title_color=61DAFB" />
 </a>
 <a href="https://github.com/Rishabhmishra45/Dream-Nest">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rishabhmishra45&repo=Dream-Nest&theme=dark&hide_border=true&bg_color=0D1117&title_color=61DAFB" />
+  <img width="49%" src="https://github-readme-stats-five-gamma-61.vercel.app/api/pin/?username=Rishabhmishra45&repo=Dream-Nest&theme=dark&hide_border=true&bg_color=0D1117&title_color=61DAFB" />
 </a>
 <a href="https://github.com/Rishabhmishra45/Booksy">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rishabhmishra45&repo=Booksy&theme=dark&hide_border=true&bg_color=0D1117&title_color=61DAFB" />
+  <img width="49%" src="https://github-readme-stats-five-gamma-61.vercel.app/api/pin/?username=Rishabhmishra45&repo=Booksy&theme=dark&hide_border=true&bg_color=0D1117&title_color=61DAFB" />
 </a>
 <a href="https://github.com/Rishabhmishra45/Solar-System">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rishabhmishra45&repo=Solar-System&theme=dark&hide_border=true&bg_color=0D1117&title_color=61DAFB" />
+  <img width="49%" src="https://github-readme-stats-five-gamma-61.vercel.app/api/pin/?username=Rishabhmishra45&repo=Solar-System&theme=dark&hide_border=true&bg_color=0D1117&title_color=61DAFB" />
 </a>
 <a href="https://github.com/Rishabhmishra45/Resume-Builder">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rishabhmishra45&repo=Resume-Builder&theme=dark&hide_border=true&bg_color=0D1117&title_color=61DAFB" />
+  <img width="49%" src="https://github-readme-stats-five-gamma-61.vercel.app/api/pin/?username=Rishabhmishra45&repo=Resume-Builder&theme=dark&hide_border=true&bg_color=0D1117&title_color=61DAFB" />
 </a>
 </p>
 
@@ -129,3 +131,5 @@ I build scalable, high-performance web applications, and I'm currently deep-divi
 <img src="https://komarev.com/ghpvc/?username=Rishabhmishra45&style=for-the-badge&color=61DAFB" alt="Profile views" />
 
 </div>
+
+<!-- Proudly enhanced with the help of Claude ( https://claude.ai ) -->
