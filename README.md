@@ -64,8 +64,8 @@ I build scalable, high-performance web applications, and I'm currently deep-divi
 ### 📊 GitHub Analytics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats-five-gamma-61.vercel.app/api?username=Rishabhmishra45&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB" />
-<img height="180em" src="https://github-readme-stats-five-gamma-61.vercel.app/api/top-langs/?username=Rishabhmishra45&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=61DAFB" />
+<img height="180em" src="https://github-readme-stats-five-gamma-61.vercel.app/api?username=Rishabhmishra45&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB&cb=2" />
+<img height="180em" src="https://github-readme-stats-five-gamma-61.vercel.app/api/top-langs/?username=Rishabhmishra45&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=61DAFB&cb=2" />
 </p>
 
 <p align="center">
@@ -102,22 +102,22 @@ I build scalable, high-performance web applications, and I'm currently deep-divi
 
 <p align="center">
 <a href="https://github.com/Rishabhmishra45/DeliverDish">
-  <img width="49%" src="https://github-readme-stats-five-gamma-61.vercel.app/api/pin/?username=Rishabhmishra45&repo=DeliverDish&theme=dark&hide_border=true&bg_color=0D1117&title_color=61DAFB" />
+  <img width="49%" src="https://github-readme-stats-five-gamma-61.vercel.app/api/pin/?username=Rishabhmishra45&repo=DeliverDish&theme=dark&hide_border=true&bg_color=0D1117&title_color=61DAFB&cb=2" />
 </a>
 <a href="https://github.com/Rishabhmishra45/MishraMart">
-  <img width="49%" src="https://github-readme-stats-five-gamma-61.vercel.app/api/pin/?username=Rishabhmishra45&repo=MishraMart&theme=dark&hide_border=true&bg_color=0D1117&title_color=61DAFB" />
+  <img width="49%" src="https://github-readme-stats-five-gamma-61.vercel.app/api/pin/?username=Rishabhmishra45&repo=MishraMart&theme=dark&hide_border=true&bg_color=0D1117&title_color=61DAFB&cb=2" />
 </a>
 <a href="https://github.com/Rishabhmishra45/Dream-Nest">
-  <img width="49%" src="https://github-readme-stats-five-gamma-61.vercel.app/api/pin/?username=Rishabhmishra45&repo=Dream-Nest&theme=dark&hide_border=true&bg_color=0D1117&title_color=61DAFB" />
+  <img width="49%" src="https://github-readme-stats-five-gamma-61.vercel.app/api/pin/?username=Rishabhmishra45&repo=Dream-Nest&theme=dark&hide_border=true&bg_color=0D1117&title_color=61DAFB&cb=2" />
 </a>
 <a href="https://github.com/Rishabhmishra45/Booksy">
-  <img width="49%" src="https://github-readme-stats-five-gamma-61.vercel.app/api/pin/?username=Rishabhmishra45&repo=Booksy&theme=dark&hide_border=true&bg_color=0D1117&title_color=61DAFB" />
+  <img width="49%" src="https://github-readme-stats-five-gamma-61.vercel.app/api/pin/?username=Rishabhmishra45&repo=Booksy&theme=dark&hide_border=true&bg_color=0D1117&title_color=61DAFB&cb=2" />
 </a>
 <a href="https://github.com/Rishabhmishra45/Solar-System">
-  <img width="49%" src="https://github-readme-stats-five-gamma-61.vercel.app/api/pin/?username=Rishabhmishra45&repo=Solar-System&theme=dark&hide_border=true&bg_color=0D1117&title_color=61DAFB" />
+  <img width="49%" src="https://github-readme-stats-five-gamma-61.vercel.app/api/pin/?username=Rishabhmishra45&repo=Solar-System&theme=dark&hide_border=true&bg_color=0D1117&title_color=61DAFB&cb=2" />
 </a>
 <a href="https://github.com/Rishabhmishra45/Resume-Builder">
-  <img width="49%" src="https://github-readme-stats-five-gamma-61.vercel.app/api/pin/?username=Rishabhmishra45&repo=Resume-Builder&theme=dark&hide_border=true&bg_color=0D1117&title_color=61DAFB" />
+  <img width="49%" src="https://github-readme-stats-five-gamma-61.vercel.app/api/pin/?username=Rishabhmishra45&repo=Resume-Builder&theme=dark&hide_border=true&bg_color=0D1117&title_color=61DAFB&cb=2" />
 </a>
 </p>
 
@@ -128,8 +128,4 @@ I build scalable, high-performance web applications, and I'm currently deep-divi
 ### 💬 Fun fact
 "Code is like humor. When you have to explain it, it's bad." — Cory House
 
-<img src="https://komarev.com/ghpvc/?username=Rishabhmishra45&style=for-the-badge&color=61DAFB" alt="Profile views" />
-
 </div>
-
-<!-- Proudly enhanced with the help of Claude ( https://claude.ai ) -->
