@@ -76,7 +76,7 @@ I build scalable, high-performance web applications, and I'm currently deep-divi
 <img src="https://github-profile-trophy.vercel.app/?username=Rishabhmishra45&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" />
 </p>
 
-> Agar trophy row kabhi load na ho (broken icon dikhe), to bas README page ko refresh kar dena — ye ek free shared service hai jo kabhi-kabhi busy ho jaati hai, tumhari file mein kuch galat nahi hai.
+
 
 ---
 
@@ -94,7 +94,6 @@ I build scalable, high-performance web applications, and I'm currently deep-divi
 <img src="https://raw.githubusercontent.com/Rishabhmishra45/Rishabhmishra45/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </p>
 
-> Note: the snake graphic above needs a one-time GitHub Action set up in this repo to generate itself — see the setup note at the bottom of this file.
 
 ---
 
