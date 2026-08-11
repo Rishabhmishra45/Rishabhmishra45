@@ -2,11 +2,11 @@
 
 # Hi there, I'm Rishabh Mishra 👋
 
-### Frontend Developer | MERN Stack | React Native Learner
+### Full Stack Developer | MERN Stack | React Native Learner
 
-I build scalable, high-performance web and mobile applications, and I'm currently deep-diving into React Native for cross-platform app development.
+I build scalable, high-performance web applications, and I'm currently deep-diving into React Native for cross-platform app development.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;React+Native+Explorer;Building+Scalable+Web+Apps;Always+Learning+%2C+Always+Building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+Native+Explorer;Building+Scalable+Web+Apps;Always+Learning+%2C+Always+Building" alt="Typing SVG" />
 
 </div>
 
