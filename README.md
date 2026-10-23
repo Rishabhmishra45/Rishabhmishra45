@@ -86,14 +86,6 @@ I build scalable, high-performance web applications, and I'm currently deep-divi
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishabhmishra45&theme=react-dark&hide_border=true&bg_color=0D1117&color=61DAFB&line=61DAFB&point=F7DF1E" width="100%"/>
 </p>
 
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Rishabhmishra45/Rishabhmishra45/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</p>
-
 
 ---
 
